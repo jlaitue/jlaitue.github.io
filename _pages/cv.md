@@ -11,32 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechatronics Engineering, Instituto Tecnologico y de Estudios Superiores de Monterrey, 2016
-* Double M.S. in Mathematics and Informatics Data Science, Université de Paris, 2021
-* Ph.D in Deep Learning, Université Paris Saclay, 2023
+* *Double M.S.* in Mathematics and Informatics Data Science, Université de Paris, 2021
+* *B.S.* in Mechatronics Engineering, Instituto Tecnologico y de Estudios Superiores de Monterrey, 2016
+<!-- * Ph.D in Deep Learning, Université Paris Saclay, 2023 -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **TotalEnergies** *Data Science Intern* (April 2021-September 2021) Paris, France
+  * Time series analysis of photo voltaic energy plants from TotalEnergies. Analysis of energy losses due to soiling. Implementation of a statistical clear sky algorithm for ideal production prediction. Tree detection and distance analysis in satellite images via computer vision.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **NOVUS ITESM** *Research Collaborator* (2019-) Mexico City, Mexico
+  * R&D in the areas of statistics, augmented reality, virtual reality and machine learning. Development of applications for the enhancement of statistical thinking of undergraduate engineering students.
 
-Skills
+* **Kanazawa Institute of Technology** *Research Engineer* (2018) Kanazawa, Japan
+  * Developed an augmented reality mobile application that displays a quick cardiovascular diagnosis obtained via the analysis of heartbeat sounds using deep neural networks.
+  * Supervisor: Tomohito Yamamoto
+
+* **HAL Development** *Fullstack Software Engineer* (2017) Mexico City, Mexico
+  * Development of interfaces, backend architectures, database design and connection and server set up. Implementation of NLP algorithms in developed projects.
+
+* **National Institute of Genomic Medicine** *Fullstack Software Engineer* (2017) Mexico City, Mexico
+  * Preventive and corrective maintenance for medical and research equipment. Support to medics and researchers in the use of specialized genomic and electronic equipment
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -46,9 +52,9 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -56,4 +62,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
