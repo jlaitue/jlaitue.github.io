@@ -3,8 +3,8 @@ title: "New methods on image analysis: augmented reality application for heartbe
 collection: publications
 permalink: /publication/augmented-reality-brain-signals
 excerpt: "Traditional statistical methods have become insufficient when applied to image analysis. The increasing size of data volume and its complexity demands new statistical approaches and algorithms. Current methods imply losing intrinsic data structures, for example when data comes from multiway arrays. In this work we concentrate in two applications i) A pre-diagnostic smartphone application for detection of cardiovascular abnormalities through the analysis of heartbeat sounds and the use of augmented reality for displaying valuable information to the end user in an immersive experience."
-date: 2020-05-01
-venue: 'International Journal on Interactive Design and Manufacturing, Guangzhou China'
+date: 2019-02-24
+venue: 'Journal of Physics Conference series: International Conference on Machine Vision and Information Technology, Guangzhou China'
 paperurl: 'https://iopscience.iop.org/article/10.1088/1742-6596/1229/1/012003'
 citation: 'Leopoldo Julian Lechuga López, Yamamoto Tomohito, Olga López Rios and Gisela Lechuga López'
 ---

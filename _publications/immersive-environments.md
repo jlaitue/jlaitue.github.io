@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/immersive-environments
 excerpt: "Universities are facing the challenge of updating the contents of their current study programs and adopting novel education strategies in order to prepare the next generation of engineers who can adapt to the highly competitive labor market of Industry 4.0. This new industrial era requires skills and competencies in state-of-the-art technologies which are constantly and rapidly evolving. This research presents an alternative approach to the current teaching–learning methodologies, focusing on the use of Virtual Reality (VR) as an educational tool and its contribution towards the upcoming industrial challenges, via what we call interactive education for future engineers (IE)."
 date: 2020-09-25
-venue: 'International Conference on Machine Vision and Information Technology, Montpellier France'
+venue: '14th International Journal on Interactive Design and Manufacturing'
 paperurl: 'https://link.springer.com/article/10.1007/s12008-020-00698-1'
 citation: 'Olga López Ríos, Leopoldo Julian Lechuga López and Gisela Lechuga López'
 ---

@@ -12,8 +12,9 @@ redirect_from:
 Education
 ======
 * *Double M.S.* in Mathematics and Informatics Data Science, Université de Paris, 2021
-* *B.S.* in Mechatronics Engineering, Instituto Tecnologico y de Estudios Superiores de Monterrey, 2016
-<!-- * Ph.D in Deep Learning, Université Paris Saclay, 2023 -->
+* *B.S.* in Mechatronics Engineering, Instituto Tecnologico y de Estudios Superiores de Monterrey ITESM, 2016
+* *Summer research program* Finding Nano, Technische Universität München TUM, 2016
+* *Exchange semester* at Rigas Tehniska Universitate RTU, 2015
 
 Work experience
 ======
@@ -42,17 +43,17 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+Presentations
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
 
 <!-- Teaching
 ======
