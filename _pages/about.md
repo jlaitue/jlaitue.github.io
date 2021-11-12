@@ -23,12 +23,12 @@ I strongly believe that we must strive to achieve the best version of ourselves 
 Interests
 ======
 
-* Robotics: Developing mechatronic systems for automating every day tasks, autonomous vehicles, swarm robotics, virtual reality surveillance systems.
-* Neuroscience: Understanding how the brain works and particularly learn about the processes that allow you to read these words and continue breathing without having to think about it.
-* Analysis of data networks: Analysis of data in a broad range of domains, multiomics data in medicine, understanding the [rules of contagion](https://kucharski.io/books/). As an example I developed a project for analyzing F1 data using graph databases to understand the development of the sport throughout the years.
-* Gastronomy: How can we upgrade a culinary experience using artificial intelligence? What can we learn from data to improve the experience of being in a restaurant? I dream of owning my own restaurant in which the clients will enjoy the combination of delicious food and the marvels of AI.
-* Finance: Learning about investments since a lot of dreams require time and money to be fulfilled.
-* Culture: Art, AI and mechatronics working together as a new form of sci-fi experience.
+* **Robotics**: Developing mechatronic systems for automating every day tasks, autonomous vehicles, swarm robotics, virtual reality surveillance systems.
+* **Neuroscience**: Understanding how the brain works and particularly learn about the processes that allow you to read these words and continue breathing without having to think about it.
+* **Analysis of data networks**: Analysis of data in a broad range of domains, multiomics data in medicine, understanding the [rules of contagion](https://kucharski.io/books/). As an example I developed a project for analyzing F1 data using graph databases to understand the development of the sport throughout the years.
+* **Gastronomy**: How can we upgrade a culinary experience using artificial intelligence? What can we learn from data to improve the experience of being in a restaurant? I dream of owning my own restaurant in which the clients will enjoy the combination of delicious food and the marvels of AI.
+* **Finance**: Learning about investments since a lot of dreams require time and money to be fulfilled.
+* **Culture**: Art, AI and mechatronics working together as a new form of sci-fi experience.
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 <!-- A data-driven personal website
