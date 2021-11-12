@@ -7,10 +7,28 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a recent graduate from the double master program in Mathematics and Informatics Data Science MIDS at Université de Paris. I have a degree
-in Mechatronics engineering from the Instituto Tecnologico y de Estudios Superiores de Monterrey in Mexico.
+Recent graduate from the double master program in Mathematics and Informatics Data Science [MIDS](https://m2mids.github.io/m2mids/) at Université de Paris. I obtained my B.S degree in Mechatronics Engineering from the Instituto Tecnológico y de Estudios Superiores de Monterrey [ITESM](https://tec.mx/en) in Mexico. Throughout the years I have developed different mechatronic systems and software applications using augmented reality, virtual reality, NLP, computer vision, machine learning, deep learning and data science.
 
-My academic and professional development has guided my research interests to the integration of computer vision, neuroscience, bio-design, human-computer interaction, and robotics. I am interested in projects and developments in a broad range of industries and domains. Motorsport, technology applied to art and culture, gastronomy, cinema.
+During 2018 I worked as a researcher at the [Yamamoto Human Computer Interaction Laboratory](http://www2.kanazawa-it.ac.jp/yamalab/) at the Kanazawa Institute of Technology under the supervision of Dr Tomohito Yamamoto. I developed an application using augmented reality and deep learning for analyzing heartbeat sounds to create a pre-diagnostic mobile tool.
+
+My academic and professional development has guided my research interests to the integration of computer vision, neuroscience, bio-design, human-computer interaction, and robotics. Fascinated by the possibility to develop applications with data from virtually any domain or industry, this is one of the main motivators to have focused my career in data science and artificial intelligence. I am a firm believer that data is the new worldwide currency, it will continue to transform the world as we know it and will continue helping us develop tools and systems to better understand it.
+
+I consider myself a citizen of the world. Born and raised in my beloved Mexico, I have lived in France, Germany, Latvia, Japan, Belgium and the United States, places which have given me invaluable experiences reinforcing my desire to learn more about the world, science, culture and languages. I currently speak spanish, english and french fluently and I continue to study and improve my german and japanese skills.
+
+I strongly believe that we must strive to achieve the best version of ourselves both physically and mentally, which is the only thing we can do with the limited time we have on this Earth.
+
+*“The mystery of life isn't a problem to solve, but a reality to experience.”* - Frank Herbert, Dune
+
+
+Interests
+======
+
+* Robotics: Developing mechatronic systems for automating every day tasks, autonomous vehicles, swarm robotics, virtual reality surveillance systems.
+* Neuroscience: Understanding how the brain works and particularly learn about the processes that allow you to read these words and continue breathing without having to think about it.
+* Analysis of data networks: Analysis of data in a broad range of domains, multiomics data in medicine, understanding the [rules of contagion](https://kucharski.io/books/). As an example I developed a project for analyzing F1 data using graph databases to understand the development of the sport throughout the years.
+* Gastronomy: How can we upgrade a culinary experience using artificial intelligence? What can we learn from data to improve the experience of being in a restaurant? I dream of owning my own restaurant in which the clients will enjoy the combination of delicious food and the marvels of AI.
+* Finance: Learning about investments since a lot of dreams require time and money to be fulfilled.
+* Culture: Art, AI and mechatronics working together as a new form of sci-fi experience.
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 <!-- A data-driven personal website

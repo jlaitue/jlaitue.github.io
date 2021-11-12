@@ -9,18 +9,26 @@ redirect_from:
 
 Food
 ======
-* I love to cook and I have an international food blog! [Il Thermopolium](https://www.instagram.com/il_thermopolium/)
-* I love all types of food and in particular mexican, japanese, italian and french cuisine
+* I have an international food blog! [@il_thermopolium](https://www.instagram.com/il_thermopolium/)
+* I love to cook and all types of food in particular mexican, japanese, italian and french cuisine
 
 Sports
 ======
-* Rowing
-* Calisthenics
-* Running
-* Snowboard and skiing
+* Rowing: Member of Club España Row Crew Mexico City 2011-2017
+* Calisthenics: Building super human strength.
+* Running: Training for my first half-marathon
+* Swimming: 5k open sea race, Acapulco Mexico 2018
+* Snowboard and skiing: Best sport ever with the best views.
 
-Other
+Extra
 ======
 * Vice-president of the Residents committee of Fondation Suisse, Cité Internationale Universitaire de Paris 2021
 * Vice-president of the Residents committee of the Maison des étudiants suédois, Cité Internationale Universitaire de Paris 2020
 * Treasurer of the Residents committee of the Fondation du Mexique, Cité Internationale Universitaire de Paris 2019
+* Volunteer to gather supplies for victims of flooding in the state of Tabasco, Mexico during my military service at the mexican Navy 2012
+* Turtle protection camp in Marquelia, Guerrero Mexico 2011
+
+Books
+======
+
+I like all types of books but in particular scientific ones and novels from latin american authors. For a full list of my interests in books click [here](https://www.goodreads.com/review/list/47034270?ref=nav_mybooks)
