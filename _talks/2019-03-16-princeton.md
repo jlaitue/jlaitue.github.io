@@ -1,5 +1,5 @@
 ---
-title: "Paper: Virtual Reality and Statistical Thinking Enhancement"
+title: "Virtual Reality and Statistical Thinking Enhancement"
 collection: talks
 type: "Paper presentation"
 permalink: /talks/2019-03-16-princeton
