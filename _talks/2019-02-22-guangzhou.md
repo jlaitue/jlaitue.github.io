@@ -1,8 +1,8 @@
 ---
-title: "Paper: A comprehensive statistical assessment framework to measure the impact of immersive environments on skills of higher education students: a case study"
+title: "Paper: New methods on image analysis: augmented reality application for heart beat sound analysis and MRI brain injury images"
 collection: talks
 type: "Paper presentation"
-permalink: /talks/2019-02-22-china
+permalink: /talks/2019-02-22-guangzhou
 venue: "International Conference on Machine Vision and Information Technology"
 date: 2019-02-22
 location: "Guangzhou, China"
