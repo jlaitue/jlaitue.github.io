@@ -24,6 +24,7 @@ Interests
 ======
 
 * **Robotics**: Developing mechatronic systems for automating every day tasks, autonomous vehicles, swarm robotics, virtual reality surveillance systems.
+* **Health Data Science**: Analysis of medical data and research of state-of-the-art methods for detection and classification for cancer. Development of applications and diagnostic tools with commodity hardware to increase the access for disadvantaged people to safe and reliable health services driven by technology.
 * **Neuroscience**: Understanding how the brain works and particularly learn about the processes that allow you to read these words and continue breathing without having to think about it.
 * **Analysis of data networks**: Analysis of data in a broad range of domains, multiomics data in medicine, understanding the [rules of contagion](https://kucharski.io/books/). As an example I developed a project for analyzing F1 data using graph databases to understand the development of the sport throughout the years.
 * **Gastronomy**: How can we upgrade a culinary experience using artificial intelligence? What can we learn from data to improve the experience of being in a restaurant? I dream of owning my own restaurant in which the clients will enjoy the combination of delicious food and the marvels of AI.
