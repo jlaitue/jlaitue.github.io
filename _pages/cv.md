@@ -18,6 +18,9 @@ Education
 
 Work experience
 ======
+* **Tec de Monterrey** *Lecturer* (February 2022) Mexico, Remote
+  * Course: "Design and Analysis of Experiments"
+
 * **TotalEnergies** *Data Science Intern* (April 2021-September 2021) Paris, France
   * Time series analysis of photo voltaic energy plants from TotalEnergies. Analysis of energy losses due to soiling. Implementation of a statistical clear sky algorithm for ideal production prediction. Tree detection and distance analysis in satellite images via computer vision.
 
