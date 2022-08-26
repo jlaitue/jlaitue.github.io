@@ -11,6 +11,12 @@ Food
 ======
 * I LOVE food! Cooking and certainly eating, which is one of the reasons I have an international food blog! [@il_thermopolium](https://www.instagram.com/il_thermopolium/)
 
+Medium and Youtube
+======
+* I started writing as a therapeutic exercise and very quickly found out I love it. [Medium @jlaitue](https://medium.com/@jlaitue)
+* I like to do crazy stuff in front of people so I decided I might as well do it in front of a camera. Should restart the channel though...[Julián Lechuga](https://www.youtube.com/channel/UCLe6g_04NWVkgTGVYsc-bQA)
+
+
 Sports
 ======
 * Club España Row Crew, Mexico 2011-2017. Current 2km run time is ~8min,
