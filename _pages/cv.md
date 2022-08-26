@@ -11,10 +11,28 @@ redirect_from:
 
 Education
 ======
-* *Double M.Sc* in Mathematics and Informatics Data Science, Université de Paris Cité, 2021
-* *B.Sc* in Mechatronics Engineering, Instituto Tecnológico y de Estudios Superiores de Monterrey ITESM, 2016
-* *Summer research program* Finding Nano: Nanoscience and nanotechnology, Technische Universität München TUM, 2016
-* *Exchange semester* at Rigas Tehniska Universitate RTU, 2015
+* **Université de Paris Cité** (2021) Paris, France
+  * Double M.Sc degree in Mathematics and Informatics with focus in Data Science.
+
+* **Instituto Tecnológico y de Estudios Superiores de Monterrey ITESM** (2016) Mexico City, Mexico
+  * B.Sc in Mechatronics engineering.
+
+* **Rigas Tehniska Universitate RTU** (2015) Riga, Latvia
+  * Exchange semester during my bachelor's degree. Focus in finance and business management.
+
+Summer schools
+======
+
+* **[Bumblekite 2022](https://www.bumblekite.co/summer-school)** *AI in healthcare* (2022) Zürich, Switzerland
+  * Conferences, tutorials and leadership panels with academics and industry experts.
+
+* **[CreARTathon 2022](https://creartathon.com/news/20220714)** *Art, AI and HCI project* (2022) Paris, France
+  * Development and exhibition of a piece that combines art, AI and HCI.
+  * Public exposition in Le Bis ENSCI, Place de la Bastille.
+
+* **Technische Universität München TUM** *Summer research program* (2016 2022) Munich, Germany
+  * Finding Nano: Nanoscience and nanotechnology.
+  * Research work on 2D nanomaterials at the Walter Schottky Institut.
 
 Teaching
 ======
@@ -46,14 +64,13 @@ Work
 * **National Institute of Genomic Medicine** *Internship* (2014-2015) Mexico City, Mexico
   * Preventive and corrective maintenance for medical and research equipment. Support to medics and researchers in the use of specialized genomic and electronic equipment.
 
-<!-- Skills
+Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+* Python, Java, C++, Elixir, Golang
+* SQL, No-SQL
+* Tensorflow, Pytorch
+* Data science stack: Pandas, Matplotlib, Scikit-learn 
+* Neo4j, OpenCV, PySpark
 
 <!-- Publications
 ======

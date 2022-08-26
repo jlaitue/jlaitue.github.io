@@ -9,16 +9,15 @@ redirect_from:
 
 Food
 ======
-* I have an international food blog! [@il_thermopolium](https://www.instagram.com/il_thermopolium/)
-* I love to cook and all types of food in particular mexican, japanese, italian and french cuisine
+* I LOVE food! Cooking and certainly eating, which is one of the reasons I have an international food blog! [@il_thermopolium](https://www.instagram.com/il_thermopolium/)
 
 Sports
 ======
-* Rowing: Member of Club España Row Crew Mexico City 2011-2017
-* Calisthenics: Building super human strength.
-* Running: 10k Paris 2022 in 00:41:56 min
-* Swimming: 5k open sea race, Acapulco Mexico 2018
-* Snowboard and skiing: Best sport ever with the best views.
+* Club España Row Crew, Mexico 2011-2017. Current 2km run time is ~8min,
+  training to return to under 7:30min
+* Running: 10k Paris 2022 in 00:41:56
+* Swimming: 2.5k open sea race, Acapulco Mexico 2018. ~01:35:00
+* I love snowboarding
 
 Extra
 ======
