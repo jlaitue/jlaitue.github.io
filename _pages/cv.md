@@ -11,31 +11,40 @@ redirect_from:
 
 Education
 ======
-* *Double M.S.* in Mathematics and Informatics Data Science, Université de Paris, 2021
-* *B.S.* in Mechatronics Engineering, Instituto Tecnologico y de Estudios Superiores de Monterrey ITESM, 2016
-* *Summer research program* Finding Nano, Technische Universität München TUM, 2016
+* *Double M.Sc* in Mathematics and Informatics Data Science, Université de Paris Cité, 2021
+* *B.Sc* in Mechatronics Engineering, Instituto Tecnológico y de Estudios Superiores de Monterrey ITESM, 2016
+* *Summer research program* Finding Nano: Nanoscience and nanotechnology, Technische Universität München TUM, 2016
 * *Exchange semester* at Rigas Tehniska Universitate RTU, 2015
 
-Work experience
+Teaching
 ======
-* **Tec de Monterrey** *Lecturer* (February 2022) Mexico, Remote
-  * Course: "Design and Analysis of Experiments"
 
-* **TotalEnergies** *Data Science Intern* (April 2021-September 2021) Paris, France
-  * Time series analysis of photo voltaic energy plants from TotalEnergies. Analysis of energy losses due to soiling. Implementation of a statistical clear sky algorithm for ideal production prediction. Tree detection and distance analysis in satellite images via computer vision.
+* **Tec de Monterrey ITESM** *Lecturer* (February 2022) Mexico, Remote
+  * Course: "Statistical design and analysis of experiments" for 3rd year
+engineering students.
 
-* **NOVUS ITESM** *Research Collaborator* (2019-) Mexico City, Mexico
-  * R&D in the areas of statistics, augmented reality, virtual reality and machine learning. Development of applications for the enhancement of statistical thinking of undergraduate engineering students.
+* **Université d'Evry Val d'Essone** *Teaching assistant* (January 2022) Paris, France
+  * Course: "Introduction to algorithms with Python" for 1st year engineering
+students.
+
+Work
+======
+
+* **TotalEnergies** *Data Science Internship* (April 2021-September 2021) Paris, France
+  * Time series analysis of photo voltaic energy plants from TotalEnergies and
+  processing of aerial images for tree detection.
+
+* **NOVUS ITESM** *Research Collaborator* (2019-2021) Mexico City, Mexico
+  * R&D in the areas of statistical thinking, augmented reality, virtual reality and machine learning. Advisor: Olga López, PhD.
 
 * **Kanazawa Institute of Technology** *Research Assistanship* (2018) Kanazawa, Japan
-  * Developed an augmented reality mobile application that displays a quick cardiovascular diagnosis obtained via the analysis of heartbeat sounds using deep neural networks.
-  * Supervisor: Tomohito Yamamoto
+  * Augmented reality mobile application for analysis of heartbeat sounds using deep neural networks. Advisor: Tomohito Yamamoto, PhD.
 
 * **HAL Development** *Fullstack Software Engineer* (2017) Mexico City, Mexico
-  * Development of interfaces, backend architectures, database design and connection and server set up. Implementation of NLP algorithms in developed projects.
+  * Frontend interfaces using Polymer, HTML, CSS. Data and backend development using: Go, Elixir, Python, SQL and No-SQL. In charge of backend team of 3 developers.
 
 * **National Institute of Genomic Medicine** *Internship* (2014-2015) Mexico City, Mexico
-  * Preventive and corrective maintenance for medical and research equipment. Support to medics and researchers in the use of specialized genomic and electronic equipment
+  * Preventive and corrective maintenance for medical and research equipment. Support to medics and researchers in the use of specialized genomic and electronic equipment.
 
 <!-- Skills
 ======
@@ -46,11 +55,11 @@ Work experience
   * Sub-skill 2.3
 * Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 <!-- Presentations
 ======
