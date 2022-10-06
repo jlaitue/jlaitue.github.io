@@ -21,9 +21,9 @@ Sports
 ======
 * Club España Row Crew, Mexico 2011-2017. Current 2km row time is 7:31 min,
   Constantly training to lower it below 7 min.
-* Running: 10k Paris 2022 in 00:41:56
+* Running: 10k Paris 2022 in 00:41:56 min
 * Swimming: 2.5k open sea race, Acapulco Mexico 2018. ~01:35:00
-* I love snowboarding
+* I love snowboarding haha
 
 Extra
 ======
