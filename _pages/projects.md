@@ -7,14 +7,14 @@ author_profile: true
 
 Projects
 ======
-* **Integration of AI algorithms in a robotic car** *Personal project* (Ongoing)
+<!-- * **Integration of AI algorithms in a robotic car** *Personal project* (Ongoing)
   * Raspberry Pi robotic car in which algorithms of computer vision, voice recognition, reinforcement learning and 360° video feed are combined to serve as an autonomous vehicle capable of learning, reacting to and exploring environments with virtual reality.
 
 * **Website for restaurants of Paris by arrondissement** *Personal project* (Ongoing)
   * Simple website for filtering restaurants in Paris by arrondissement, neighbourhood, type of food and price. Despite this information being available by Google it is hard to find a website that filters all restaurants by these categories.
 
 * **Block chain token for academic recommendation letters** *Personal project* (Ongoing)
-  * Applications to graduate programs require a lot of work and time to prepare. One of the most time consuming and hard tasks is contacting professors that agree to give you recommendation letters. With this in mind, blockchain tokens can be used to validate an academic's support to a candidate without the need of constantly updating the recommender's information.
+  * Applications to graduate programs require a lot of work and time to prepare. One of the most time consuming and hard tasks is contacting professors that agree to give you recommendation letters. With this in mind, blockchain tokens can be used to validate an academic's support to a candidate without the need of constantly updating the recommender's information. -->
 
 * **Photovoltaic data driven analysis: data cleaning, computer vision and losses estimation** (2021)
   - *TotalEnergies Paris, France*
