@@ -23,7 +23,7 @@ Education
 Work
 ======
 
-* **New York University Abu Dhabi** *Research assistant* (December 2023) Abu Dhabi, UAE
+* **New York University Abu Dhabi** *Research assistant* (January 2023) Abu Dhabi, UAE
   * Clinical AI Laboratory. Research in machine learning applied to healthcare. Federated learning, model uncertainty, and multi-modal breast cancer modeling. 
 
 * **Université d'Evry Val d'Essone** *Research assistant* (October 2021-December 2022) Paris, France
@@ -58,7 +58,7 @@ Summer schools
   * Development and exhibition of a piece that combines art, AI and HCI.
   * Public exposition in Le Bis ENSCI, Place de la Bastille.
 
-* **Technische Universität München TUM** *Summer research program* (2016 2022) Munich, Germany
+* **Technische Universität München TUM** *Summer research program* (2016) Munich, Germany
   * Finding Nano: Nanoscience and nanotechnology.
   * Research work on 2D nanomaterials at the Walter Schottky Institut.
 
