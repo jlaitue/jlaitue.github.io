@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Université de Paris Cité** (2021) Paris, France
-  * Double M.Sc degree in Mathematics and Informatics with focus in Data Science.
+  * Double M.Sc degree in Mathematics and Informatics, Data Science MIDS.
 
 * **Instituto Tecnológico y de Estudios Superiores de Monterrey ITESM** (2016) Mexico City, Mexico
   * B.Sc in Mechatronics engineering.
@@ -20,7 +20,7 @@ Education
 * **Rigas Tehniska Universitate RTU** (2015) Riga, Latvia
   * Exchange semester during my bachelor's degree. Focus in finance and business management.
 
-Work
+Professional experience
 ======
 
 * **New York University Abu Dhabi** *Research assistant* (January 2023) Abu Dhabi, UAE
@@ -45,6 +45,17 @@ Work
 * **National Institute of Genomic Medicine** *Internship* (2014-2015) Mexico City, Mexico
   * Preventive and corrective maintenance for medical and research equipment. Support to medics and researchers in the use of specialized genomic and electronic equipment.
 
+Teaching
+======
+
+* **Tec de Monterrey ITESM** *Lecturer* (February 2022 - December 2022) Mexico, Remote
+  * Course: "Statistical design and analysis of experiments" for 3rd year
+engineering students.
+
+* **Université d'Evry Val d'Essone** *Teaching assistant* (January 2022 - June 2022) Paris, France
+  * Course: "Introduction to algorithms with Python" for 1st year engineering
+students.
+
 Summer schools
 ======
 
@@ -61,17 +72,6 @@ Summer schools
 * **Technische Universität München TUM** *Summer research program* (2016) Munich, Germany
   * Finding Nano: Nanoscience and nanotechnology.
   * Research work on 2D nanomaterials at the Walter Schottky Institut.
-
-Teaching
-======
-
-* **Tec de Monterrey ITESM** *Lecturer* (February 2022) Mexico, Remote
-  * Course: "Statistical design and analysis of experiments" for 3rd year
-engineering students.
-
-* **Université d'Evry Val d'Essone** *Teaching assistant* (January 2022) Paris, France
-  * Course: "Introduction to algorithms with Python" for 1st year engineering
-students.
 
 
 
