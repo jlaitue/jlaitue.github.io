@@ -24,7 +24,7 @@ Professional experience
 ======
 
 * **New York University Abu Dhabi** *Research assistant* (January 2023) Abu Dhabi, UAE
-  * Clinical AI Laboratory. Research in machine learning applied to healthcare. Federated learning, model uncertainty, and multi-modal breast cancer modeling. 
+  * Clinical AI Laboratory. Research in machine learning applied to healthcare. Federated learning, model uncertainty, and multi-modal breast cancer modeling. Supervisor: Farah E. Shamout, PhD
 
 * **Université d'Evry Val d'Essone** *Research assistant* (October 2021-December 2022) Paris, France
   * IBISC Laboratory. Research in breast cancer classification using convolutional neural networks. 
@@ -34,10 +34,10 @@ Professional experience
   processing of aerial images for tree detection.
 
 * **NOVUS ITESM** *Research Collaborator* (2019-2021) Mexico City, Mexico
-  * R&D in the areas of statistical thinking, augmented reality, virtual reality and machine learning. Advisor: Olga López, PhD.
+  * R&D in the areas of statistical thinking, augmented reality, virtual reality and machine learning. Supervisor: Olga López, PhD.
 
 * **Kanazawa Institute of Technology** *Research Assistanship* (2018) Kanazawa, Japan
-  * Augmented reality mobile application for analysis of heartbeat sounds using deep neural networks. Advisor: Tomohito Yamamoto, PhD.
+  * Augmented reality mobile application for analysis of heartbeat sounds using deep neural networks. Supervisor: Tomohito Yamamoto, PhD.
 
 * **HAL Development** *Fullstack Software Engineer* (2017) Mexico City, Mexico
   * Frontend interfaces using Polymer, HTML, CSS. Data and backend development using: Go, Elixir, Python, SQL and No-SQL. In charge of backend team of 3 developers.
