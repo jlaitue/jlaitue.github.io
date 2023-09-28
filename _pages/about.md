@@ -7,27 +7,32 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research interests lie at the intersection of computer vision, healthcare, neuroscience, bio-design, human-computer interaction, and robotics. Until this day I still feel like machine learning and AI in general is magic. Being able to build an application that can positively impact the lives of people product with just your computer is still mindblowing for me.
+I am in my 1st year as a PhD student in CSE at NYU Tandon School of Engineering. I am part of the [Clinical AI Laboratory](https://clinicalailab.com/) at NYU Abu Dhabi, led by my supervisor Professor [Farah E. Shamout](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/farah-emad-shamout.html).
 
-Graduated from the double master program in Mathematics and Informatics Data Science [MIDS](https://m2mids.github.io/m2mids/) at Université de Paris Cité. I obtained my B.S degree in Mechatronics Engineering from the Instituto Tecnológico y de Estudios Superiores de Monterrey [ITESM](https://tec.mx/en) in Mexico. Throughout the years I have developed different mechatronic systems and software applications using augmented reality, virtual reality, NLP, computer vision, machine learning, deep learning and data science. In 2018 I worked as a research assistant at the [Yamamoto Human Computer Interaction Laboratory](http://www2.kanazawa-it.ac.jp/yamalab/) at the Kanazawa Institute of Technology under the supervision of Dr Tomohito Yamamoto. I developed an application using augmented reality and deep learning for analyzing heartbeat sounds to create a pre-diagnostic mobile tool.
+My research is centered on robustness and uncertainty quantification of multimodal learning models applied to healthcare challenges. My focus in on the development of new methods and multimodal architectures. I am currently doing research using multimodal breast cancer and chest X-ray datasets. 
+ <!-- lie at the intersection of computer vision, healthcare, neuroscience, bio-design, human-computer interaction, and robotics. Until this day I still feel like machine learning and AI in general is magic. Being able to build an application that can positively impact the lives of people product with just your computer is still mindblowing for me. -->
 
-I consider myself a citizen of the world. Born and raised in my beloved Mexico, I have lived in France, Germany, Latvia, Japan, Belgium and now in the UAE. These places have given me invaluable experiences reinforcing my desire to learn more about the world, science, culture and languages. I currently speak spanish, english and french fluently and I continue to study and improve my german and japanese. I have recently started learning arabic :D
+I have a double masters in Mathematics and Informatics Data Science [MIDS](https://m2mids.github.io/m2mids/) from Université de Paris Cité. I obtained my BSc in Mechatronics Engineering from the Instituto Tecnológico y de Estudios Superiores de Monterrey [ITESM](https://tec.mx/en) in Mexico. 
+<!-- Throughout the years I have developed different mechatronic systems and software applications using augmented reality, virtual reality, NLP, computer vision, machine learning, deep learning and data science. -->
+<!-- In 2018 I worked as a research assistant at the [Yamamoto Human Computer Interaction Laboratory](http://www2.kanazawa-it.ac.jp/yamalab/) at the Kanazawa Institute of Technology under the supervision of Dr Tomohito Yamamoto. I developed an application using augmented reality and deep learning for analyzing heartbeat sounds to create a pre-diagnostic mobile tool. -->
+
+I was born and raised in Mexico and I have lived in France, Germany, Latvia, Japan, Belgium, the United Arab Emirates and now in the USA (wow!). These places have given me invaluable experiences, reinforcing my desire to learn more about the world, science, culture and languages. I speak Spanish, English and French fluently and I continue to study and improve my German and Japanese (I recently started learning Arabic :D).
 
 <!-- I strongly believe that we must strive to achieve the best version of ourselves both physically and mentally, which is the only thing we can do with the limited time we have on this Earth. -->
 
 *“The mystery of life isn't a problem to solve, but a reality to experience.”* - Frank Herbert, Dune
 
 
-Interests
+Other interests
 ======
 
 <!-- * **Robotics**: Mechatronic systems for automating every day tasks, autonomous vehicles, swarm robotics, virtual reality surveillance systems. Robotics is just awesome. -->
-* **Health Data Science**: Analysis of medical data and research of SOTA methods for detection and classification for cancer. Main goal: development of high performing low-cost applications and diagnostic tools to increase the access for disadvantaged people to safe and reliable health services driven by technology.
+<!-- * **Health Data Science**: Analysis of medical data and research of SOTA methods for detection and classification for cancer. Main goal: development of high performing low-cost applications and diagnostic tools to increase the access for disadvantaged people to safe and reliable health services driven by technology. -->
 <!-- * **Neuroscience**: Understanding how the brain works and particularly learn about the processes that allow you to read these words and continue breathing without having to think about it. -->
-* **Analysis of graph data networks**: I find graph theory fascinating, even though I am not an expert, I think there is huge potential in the applications of graph theory virtually every domain. For example, I developed a project for analyzing historical F1 data using graph databases and see why Hamilton is the best driver ever (or not?).
-* **Gastronomy**: Can AI and data improve and create a new the culinary experience? I dream of owning my own restaurant in which people can enjoy the combination of delicious food and the marvels of AI. I worked in a taqueria for 1 beautiful day!
-* **Finance**: I like to learn about money, the dynamics of it, and how to take advantage of it in an intelligent way.
-* **Culture**: Art, AI and mechatronics working together as a new form of sci-fi experience. An area I finally was able to get involved in during the summer of '22. [CreARTathon 2022](https://creartathon.com/news/20220714)
+* **Graph data networks**: I find graph theory fascinating, even though I am not an expert, I think there is huge potential in the applications of graph theory in any domain. I developed a project for analyzing historical F1 data using graph databases.
+* **Gastronomy**: Can AI and data improve and create new culinary experiences? I dream of owning my own restaurant in which people can enjoy the combination of delicious food and the marvels of AI. I worked in a taqueria for 1 beautiful day!
+* **Finance**: I am interested in finance and the dynamics of investments.
+* **Culture**: Art, AI and mechatronic systems working together as new ways of artistic expression and experiences. I finally was able to develop this interest during the summer of '22. [CreARTathon 2022: Réseaunance](https://creartathon.com/)
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 <!-- A data-driven personal website

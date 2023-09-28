@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Julian Lechuga"
   avatar           : "bio.jpeg"
-  bio              : "Research Assistant"
-  location         : "Abu Dhabi, UAE"
-  employer         :
+  bio              : "PhD student Computer Science"
+  location         : "New York, USA"
+  employer         : "New York University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=shTJDMoAAAAJ&hl=en"
-  email            : "julian.lechuga305@gmail.com"
+  email            : "leopoldo.lechuga@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
