@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 1st year PhD student in CSE at NYU Tandon School of Engineering. My research is focused on improving the reliability of multimodal learning using model robustness and uncertainty quantification on medical data such as NYU's breast cancer multimodal imaging dataset. I am part of the [Clinical AI Laboratory](https://clinicalailab.com/) at NYU Abu Dhabi, led by my supervisor Professor [Farah Shamout](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/farah-emad-shamout.html). 
+I am a 1st year PhD student in CSE at NYU Tandon School of Engineering. My research is focused on improving the reliability of multimodal learning using **model robustness and uncertainty quantification on medical data** such as NYU's breast cancer multimodal imaging dataset. I am part of the [Clinical AI Laboratory](https://clinicalailab.com/) at NYU Abu Dhabi, led by my supervisor Professor [Farah Shamout](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/farah-emad-shamout.html). 
 
 <!-- I am currently working on a collaboration with Professor [Tim Rudner](https://timrudner.com/) implementing uncertainty quantification methods on the MIMIC dataset. We have submitted a workshop chest X-ray datasets.   -->
  <!-- lie at the intersection of computer vision, healthcare, neuroscience, bio-design, human-computer interaction, and robotics. Until this day I still feel like machine learning and AI in general is magic. Being able to build an application that can positively impact the lives of people product with just your computer is still mindblowing for me. -->
