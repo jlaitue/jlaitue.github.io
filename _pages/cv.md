@@ -11,6 +11,9 @@ redirect_from:
 
 Education
 ======
+* **New York University Tandon School of Engineering** (2023-2027) New York, USA
+  * Ph.D. in Computer Science and Engineering
+
 * **Université de Paris Cité** (2021) Paris, France
   * Double M.Sc degree in Mathematics and Informatics, Data Science MIDS.
 
@@ -22,39 +25,41 @@ Education
 
 Professional experience
 ======
+* **New York University Abu Dhabi** *Graduate Research assistant* (September 2023) Abu Dhabi, UAE
+  * Clinical AI Laboratory. Research in reliability of multimodal learning using model robustness and uncertainty quantification on medical data. Supervisor: Farah E. Shamout, PhD
 
-* **New York University Abu Dhabi** *Research assistant* (January 2023) Abu Dhabi, UAE
-  * Clinical AI Laboratory. Research in machine learning applied to healthcare. Federated learning, model uncertainty, and multi-modal breast cancer modeling. Supervisor: Farah E. Shamout, PhD
+* **New York University Abu Dhabi** *Research assistant* (January 2023-August 2023) Abu Dhabi, UAE
+  * Clinical AI Laboratory. Research in privacy preserving machine learning techniques for healthcare, multimodal uncertainty quantification, and multi-modal breast cancer modeling. Supervisor: Farah E. Shamout, PhD
 
 * **Université d'Evry Val d'Essone** *Research assistant* (October 2021-December 2022) Paris, France
-  * IBISC Laboratory. Research in breast cancer classification using convolutional neural networks. 
+  * IBISC Laboratory. Research in breast cancer BIRADs classification using convolutional neural networks. 
 
 * **TotalEnergies** *Data Science Internship* (April 2021-September 2021) Paris, France
-  * Time series analysis of photo voltaic energy plants from TotalEnergies and
-  processing of aerial images for tree detection.
+  * Time series analysis of photo voltaic energy plants from TotalEnergies and computer vision techniques on aerial images for tree detection.
+  * I developed a framework for outlier detection adaptable to different types of datasets.
 
 * **NOVUS ITESM** *Research Collaborator* (2019-2021) Mexico City, Mexico
   * R&D in the areas of statistical thinking, augmented reality, virtual reality and machine learning. Supervisor: Olga López, PhD.
 
 * **Kanazawa Institute of Technology** *Research Assistanship* (2018) Kanazawa, Japan
-  * Augmented reality mobile application for analysis of heartbeat sounds using deep neural networks. Supervisor: Tomohito Yamamoto, PhD.
+  * I developed an augmented reality iOS application for analyzing heartbeat sounds using deep neural networks to detect cardiovascular anomalies. Supervisor: Tomohito Yamamoto, PhD.
 
 * **HAL Development** *Fullstack Software Engineer* (2017) Mexico City, Mexico
-  * Frontend interfaces using Polymer, HTML, CSS. Data and backend development using: Go, Elixir, Python, SQL and No-SQL. In charge of backend team of 3 developers.
+  * I was part of the Fullstack team to restructure one of Mexico's most popular websites [Sopitas.com](https://sopitas.com/)
+  * Lead of backend team composed of 3 developers to develop a therapeutic chatbot using Golang and Elixir.
 
-* **National Institute of Genomic Medicine** *Internship* (2014-2015) Mexico City, Mexico
-  * Preventive and corrective maintenance for medical and research equipment. Support to medics and researchers in the use of specialized genomic and electronic equipment.
+* **National Institute of Genomic Medicine** *Undergraduate internship* (2014-2015) Mexico City, Mexico
+  * I performed preventive and corrective maintenance for medical and research equipment
+  * I provided support to medical staff and researchers in the use of specialized genomic and electronic equipment.
 
 Teaching
 ======
 
-* **Tec de Monterrey ITESM** *Lecturer* (February 2022 - December 2022) Mexico, Remote
-  * Course: "Statistical design and analysis of experiments" for 3rd year
-engineering students.
+* **Tec de Monterrey ITESM** *Lecturer* (January 2022 - December 2022) Mexico, Remote
+  * Course: "Statistical design and analysis of experiments" for 3rd year engineering students. Course language: English
 
 * **Université d'Evry Val d'Essone** *Teaching assistant* (January 2022 - June 2022) Paris, France
-  * Course: "Introduction to algorithms with Python" for 1st year engineering
-students.
+  * Course: "Introduction to algorithms with Python" for 1st year engineering students. Course language: French
 
 Summer schools
 ======
@@ -71,7 +76,7 @@ Summer schools
 
 * **Technische Universität München TUM** *Summer research program* (2016) Munich, Germany
   * Finding Nano: Nanoscience and nanotechnology.
-  * Research work on 2D nanomaterials at the Walter Schottky Institut.
+  * Laboratory research on 2D nanomaterials at the Walter Schottky Institut.
 
 
 
