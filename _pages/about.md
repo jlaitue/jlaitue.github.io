@@ -18,6 +18,8 @@ I have a double masters in Mathematics and Informatics Data Science [MIDS](https
 
 I was born and raised in Mexico, and so far I have lived in France, Germany, Latvia, Japan, Belgium, the United Arab Emirates and now in the USA. All these places have given me invaluable experiences, reinforcing my desire to learn more about the world, science, culture and different languages. I speak Spanish, English and French fluently and I continue to study and improve my German and Japanese (I recently started learning Arabic :D).
 
+If you stumbled upon my profile, feel free to reach out to me if you want to chat or discuss anything about my background or anything that you are curious about. I consider myself as a continous-learner, but I do have some experience that may be useful for anyone navigating moving to another country, applying to gradschool, research or life in general! 
+
 <!-- I strongly believe that we must strive to achieve the best version of ourselves both physically and mentally, which is the only thing we can do with the limited time we have on this Earth. -->
 
 *“The mystery of life isn't a problem to solve, but a reality to experience.”* - Frank Herbert, Dune
