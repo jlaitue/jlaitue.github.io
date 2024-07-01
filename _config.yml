@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Julián Lechuga"
   avatar           : "bio.jpeg"
-  bio              : "PhD student Computer Science"
-  location         : #"New York, USA"
-  employer         : "New York University"
+  bio              : "PhD student CSE@NYU"
+  location         : "Everywhere, (mostly Abu Dhabi)"
+  employer         : #"New York University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=shTJDMoAAAAJ&hl=en"
   email            : "leopoldo.lechuga@nyu.edu"
