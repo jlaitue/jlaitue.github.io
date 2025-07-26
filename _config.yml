@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Julián Lechuga"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Julian Lechuga"
 description              : &description "personal description"
