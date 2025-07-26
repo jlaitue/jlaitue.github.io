@@ -1,7 +1,7 @@
 ---
-layout: archive
+# layout: archive
 title: ""
-permalink: /more/
+permalink: /stochastic/
 author_profile: true
 redirect_from:
   - /resume

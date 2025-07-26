@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"L. Julián Lechuga López"
   avatar           : "bio.jpeg"
-  bio              : #leopoldo.lechuga [at] nyu.edu #"PhD candidate CSE@NYU"
+  bio              : leopoldo.lechuga [at] nyu.edu #"PhD candidate CSE@NYU"
   location         : "Everywhere (mostly Abu Dhabi)"
   googlescholar    : "https://scholar.google.com/citations?user=shTJDMoAAAAJ&hl=en"
   employer         : #"New York University"
