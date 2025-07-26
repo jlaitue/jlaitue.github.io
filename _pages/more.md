@@ -1,8 +1,8 @@
 ---
 # layout: archive
-title: ""
+title: "Random stuff!"
 permalink: /stochastic/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---

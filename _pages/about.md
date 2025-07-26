@@ -20,7 +20,7 @@ As a [CS Global PhD Fellow](https://nyuad.nyu.edu/en/academics/graduate-and-phd/
 
 I received a double master's degree in Mathematics and Informatics Data Science [MIDS](https://master.math.u-paris.fr/annee/m2-mids/) from Université de Paris Cité and an undergraduate degree in mechatronics engineering from the Instituto Tecnológico y de Estudios Superiores de Monterrey [ITESM](https://tec.mx/en).
 
-For specific details, please see my [CV](/files/CV_JulianLechuga.pdf)
+For specific details, please see my [CV](/files/CV_JulianLechuga.pdf).
 <!-- Throughout the years I have developed different mechatronic systems and software applications using augmented reality, virtual reality, NLP, computer vision, machine learning, deep learning and data science. -->
 <!-- In 2018 I worked as a research assistant at the [Yamamoto Human Computer Interaction Laboratory](http://www2.kanazawa-it.ac.jp/yamalab/) at the Kanazawa Institute of Technology under the supervision of Dr Tomohito Yamamoto. I developed an application using augmented reality and deep learning for analyzing heartbeat sounds to create a pre-diagnostic mobile tool. -->
 
