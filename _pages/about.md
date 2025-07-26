@@ -7,13 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# L. Julián Lechuga López
 PhD candidate in Computer Science and Engineering, [Tandon School of Engineering](https://engineering.nyu.edu/), New York University
 
 Graduate Research Assistant, [Clinical AI Laboratory](https://clinicalailab.com/), New York University Abu Dhabi
 
 ---
-My research is focused on improving the reliability of **multimodal learning** and **vision-language foundation models** using **uncertainty quantification** for AI-assisted **clinical applications**. I am proudly advised by [Farah Shamout](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/farah-emad-shamout.html) and [Tim G. J. Rudner](https://timrudner.com/).
+My research is focused on improving the reliability of **multimodal learning** and **vision-language foundation models** using **uncertainty quantification** for AI-assisted **clinical applications**, proudly advised by [Farah Shamout](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/farah-emad-shamout.html) and [Tim G. J. Rudner](https://timrudner.com/).
 As a [CS Global PhD Fellow](https://nyuad.nyu.edu/en/academics/graduate-and-phd/phd-programs/global-phd-student-fellowship-in-computer-science.html), I am part of the [Clinical AI Laboratory](https://clinicalailab.com/) at New York University Abu Dhabi.
 
 <!-- I am currently working on a collaboration with Professor [Tim Rudner](https://timrudner.com/) implementing uncertainty quantification methods on the MIMIC dataset. We have submitted a workshop chest X-ray datasets.   -->
@@ -32,8 +31,9 @@ If you stumbled upon my profile, feel free to reach out to me if you want to cha
 
 *"Stand on the shoulders of giants"*
 <!-- *“The mystery of life isn't a problem to solve, but a reality to experience.”* - Frank Herbert -->
+---
 
-📰 News
+News
 ======
 
 **Jul '25**  Presented our work on [Uncertainty-Aware Multimodal AI for Respiratory Shock Detection](https://drive.google.com/file/d/1VYkOLTrd-z7IqwK-hDs25J812WUl0qUo/view?usp=drive_link) at [IEEE EMBC 2025](https://embc.embs.org/2025/).
