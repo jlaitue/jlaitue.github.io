@@ -7,30 +7,55 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# L. Julián Lechuga López
+PhD candidate in Computer Science and Engineering, [Tandon School of Engineering](https://engineering.nyu.edu/), New York University
+
+Graduate Research Assistant, [Clinical AI Laboratory](https://clinicalailab.com/), New York University Abu Dhabi
+
+---
 My research is focused on improving the reliability of **multimodal learning** and **vision-language foundation models** using **uncertainty quantification** for AI-assisted **clinical applications**. I am proudly advised by [Farah Shamout](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/farah-emad-shamout.html) and [Tim G. J. Rudner](https://timrudner.com/).
-As a [Global PhD Fellow](https://nyuad.nyu.edu/en/academics/graduate-and-phd/phd-programs.html#:~:text=FOR%20INFORMATION%20SESSIONS-,Global%20PhD%20Student%20Fellowships,-NYU%20Abu%20Dhabi), I am part of the [Clinical AI Laboratory](https://clinicalailab.com/) at NYU Abu Dhabi, UAE.
+As a [CS Global PhD Fellow](https://nyuad.nyu.edu/en/academics/graduate-and-phd/phd-programs/global-phd-student-fellowship-in-computer-science.html), I am part of the [Clinical AI Laboratory](https://clinicalailab.com/) at New York University Abu Dhabi.
 
 <!-- I am currently working on a collaboration with Professor [Tim Rudner](https://timrudner.com/) implementing uncertainty quantification methods on the MIMIC dataset. We have submitted a workshop chest X-ray datasets.   -->
  <!-- lie at the intersection of computer vision, healthcare, neuroscience, bio-design, human-computer interaction, and robotics. Until this day I still feel like machine learning and AI in general is magic. Being able to build an application that can positively impact the lives of people product with just your computer is still mindblowing for me. -->
 
-I received a double master's degree in Mathematics and Informatics Data Science [MIDS](https://master.math.u-paris.fr/annee/m2-mids/) from Université de Paris Cité and an undergraduate degree in mechatronics engineering from the Instituto Tecnológico y de Estudios Superiores de Monterrey [ITESM](https://tec.mx/en). 
+I received a double master's degree in Mathematics and Informatics Data Science [MIDS](https://master.math.u-paris.fr/annee/m2-mids/) from Université de Paris Cité and an undergraduate degree in mechatronics engineering from the Instituto Tecnológico y de Estudios Superiores de Monterrey [ITESM](https://tec.mx/en).
 
 For specific details, please see my [CV](/files/CV_JulianLechuga.pdf)
 <!-- Throughout the years I have developed different mechatronic systems and software applications using augmented reality, virtual reality, NLP, computer vision, machine learning, deep learning and data science. -->
 <!-- In 2018 I worked as a research assistant at the [Yamamoto Human Computer Interaction Laboratory](http://www2.kanazawa-it.ac.jp/yamalab/) at the Kanazawa Institute of Technology under the supervision of Dr Tomohito Yamamoto. I developed an application using augmented reality and deep learning for analyzing heartbeat sounds to create a pre-diagnostic mobile tool. -->
 
-Born and raised in Mexico, I have lived in France, Germany, Latvia, Japan, Belgium, the United Arab Emirates and the United States. All these places have given me amazing experiences, reinforcing my desire to learn about the world, science, culture and different languages. 
+Born and raised in Mexico, I have been privileged to live in France, Germany, Latvia, Japan, Belgium, the United Arab Emirates and the United States. All these places have given me amazing experiences, reinforcing my desire to learn about the world, science, culture and different languages. 
+If you stumbled upon my profile, feel free to reach out to me if you want to chat or discuss about my background or anything you are curious about. I am no expert and consider myself as a always chasing knowledge, but I have experience that may be useful for anyone navigating moving to another country, applying to gradschool, research, or life in general! 
 <!-- I speak Spanish, English and French fluently and I continue to study and improve my German and Japanese (I recently started learning Arabic :D). -->
-
-If you stumbled upon my profile, feel free to reach out to me if you want to chat or discuss about my background or anything that you are curious about. I am no expert and consider myself as a always chasing knowledge, but I have experience that may be useful for anyone navigating moving to another country, applying to gradschool, research, or life in general! 
-
 <!-- I strongly believe that we must strive to achieve the best version of ourselves both physically and mentally, which is the only thing we can do with the limited time we have on this Earth. -->
 
-*“The mystery of life isn't a problem to solve, but a reality to experience.”* - Frank Herbert
+*"Stand on the shoulders of giants"*
+<!-- *“The mystery of life isn't a problem to solve, but a reality to experience.”* - Frank Herbert -->
 
-
-News
+📰 News
 ======
+
+**Jul '25**  Presented our work on [Uncertainty-Aware Multimodal AI for Respiratory Shock Detection](https://drive.google.com/file/d/1VYkOLTrd-z7IqwK-hDs25J812WUl0qUo/view?usp=drive_link) at [IEEE EMBC 2025](https://embc.embs.org/2025/).
+
+**Jun '25**  Presented [Uncertainty-Aware Foundation Models for Trustworthy Chest X-ray Report Generation](/files/CHIL_2025_PhD_poster.pdf) at the CHIL Doctoral Symposium and [Uncertainty Quantification for Machine Learning in Healthcare: A Survey](https://www.arxiv.org/abs/2505.02874) at [CHIL 2025](https://chil.ahli.cc/) at UC Berkeley.
+
+**May '25**  Presented [Uncertainty-Aware Multimodal AI for Trustworthy Clinical Decision Support](/files/SAIL_2025_poster.pdf) at [SAIL 2025](https://sail.health/event/sail-2025/) in beautiful Puerto Rico!
+
+<!-- **Apr '25**  
+Delivered a talk on *MedCertAIn: Uncertainty-Aware Multimodal AI for Trustworthy In-Hospital Mortality Prediction* at the UAE Graduate Students Research Conference at American University of Sharjah, UAE. -->
+
+<!-- **Feb '25**  
+Presented *MedCertAIn: Uncertainty-Aware Multimodal AI for Trustworthy In-Hospital Mortality Prediction* at the AI Revolution in Healthcare Summit in Dubai, UAE. -->
+
+**Oct '24**  I was a finalist at the [NYUAD GradSlam](https://nyuad.nyu.edu/en/research/postdoctoral-research/grad-slam.html) with the 3-minute pitch: [Improving the Future of Clinical Diagnostics](https://www.youtube.com/watch?v=1rd5Gnp4zf8?rel=0).
+
+**Dec '23**  My first official poster presentation! [Informative Priors Improve the Reliability of Multimodal Clinical Data Classification](https://arxiv.org/abs/2312.00794) at ML4H in New Orleans.
+
+**Jul '23**  Gave a tutorial session on *Open Source in Healthcare: Industry & Academia* at the [Bumblekite ML Summer School in Healthcare & Biosciences](https://www.bumblekite.co/summer-school-23), ETH Zürich.
+
+**May '23**  Presented [Privacy-Preserving Machine Learning for Healthcare: Open Challenges and Future Perspectives](https://link.springer.com/chapter/10.1007/978-3-031-39539-0_3) at the Trustworthy ML for Healthcare Workshop at ICLR in Kigali, Rwanda.
+
 
 <!-- * **Robotics**: Mechatronic systems for automating every day tasks, autonomous vehicles, swarm robotics, virtual reality surveillance systems. Robotics is just awesome. -->
 <!-- * **Health Data Science**: Analysis of medical data and research of SOTA methods for detection and classification for cancer. Main goal: development of high performing low-cost applications and diagnostic tools to increase the access for disadvantaged people to safe and reliable health services driven by technology. -->
@@ -40,7 +65,7 @@ News
 <!-- I developed a project for analyzing historical F1 data using graph databases. -->
 <!-- * **Gastronomy**: I will eventually have my own restaurant in which people can enjoy the combination of delicious food and the marvels of AI. I wonder how can AI can be merged with gastronomy to improve and create new culinary experiences? I worked in a taqueria for 1 beautiful day! -->
 <!-- * **Finance**: I am interested in learning about finance and the dynamics of investments and economy in general. -->
-<!-- * **Culture**: I am interested in art, AI and mechatronic systems working together to create new ways of artistic expression and immersive experiences. I was able to develop this interest in 2022 by being part of [CreARTathon 2022: Project Réseaunance](https://creartathon.com/). This summer school was led by Professor [Wendy Mackay](https://ex-situ.lri.fr/people/mackay).  --> -->
+<!-- * **Culture**: I am interested in art, AI and mechatronic systems working together to create new ways of artistic expression and immersive experiences. I was able to develop this interest in 2022 by being part of [CreARTathon 2022: Project Réseaunance](https://creartathon.com/). This summer school was led by Professor [Wendy Mackay](https://ex-situ.lri.fr/people/mackay).  -->
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 <!-- A data-driven personal website

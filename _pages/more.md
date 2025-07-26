@@ -17,14 +17,14 @@ Food
 
 Blogging
 ======
-* I started writing as a therapeutic exercise and very quickly found out I love it. [Medium @jlaitue](https://medium.com/@jlaitue)
+* I started writing as a therapeutic exercise and very quickly found out I love it. [Medium](https://medium.com/@jlaitue)
 <!-- * I like to do crazy stuff in front of people so I decided I might as well do it in front of a camera. [Julián Lechuga](https://www.youtube.com/channel/UCLe6g_04NWVkgTGVYsc-bQA) -->
 
 
 Athletics
 ======
 * Club España Row Crew, Mexico 2011-2017. 
-* Running: 10k Paris 2022 in 00:41:56, Abu Dhabi Marathon 2024 (42km) 03:24:09
+* Running: 10k Paris 2022 in 41m56s, Abu Dhabi Marathon 2024 (42km) 03h24m09s
 * Swimming: 2.5k open sea race, Acapulco Mexico 2018. ~01:35:00
 <!-- * I love snowboarding and I am awfully scared of falling into a cliff sometimes haha -->
 * Next big goal: To have done an Ironman (at least) by the end of my Ph.D
