@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "L.J.L.L"
+title                    : "Julián Lechuga"
 title_separator          : "-"
 name                     : &name "Julian Lechuga"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "L. Julián Lechuga López"
+  name             : #"L. Julián Lechuga López"
   avatar           : "bio.jpeg"
-  bio              : "PhD candidate CSE@NYU"
+  bio              : leopoldo.lechuga [at] nyu.edu #"PhD candidate CSE@NYU"
   location         : "Everywhere (mostly Abu Dhabi)"
   employer         : #"New York University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=shTJDMoAAAAJ&hl=en"
-  email            : "leopoldo.lechuga@nyu.edu"
+  email            : #"leopoldo.lechuga@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
