@@ -1,42 +1,46 @@
 ---
 permalink: /
-title: "Brief bio"
-excerpt: "Brief bio"
+title: "L. Julián Lechuga López"
+excerpt: ":)"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-I am a 2nd year PhD candidate in CSE at NYU Tandon School of Engineering. My research is focused on improving the reliability of multimodal learning using **model robustness and uncertainty quantification of AI-assisted clinical decision-making applications**. I am part of the [Clinical AI Laboratory](https://clinicalailab.com/) at NYU Abu Dhabi, led by my advisor Professor [Farah Shamout](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/farah-emad-shamout.html). 
+My research is focused on improving the reliability of **multimodal learning** and **vision-language foundation models** using **uncertainty quantification** for AI-assisted **clinical applications**. I am proudly advised by [Farah Shamout](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/farah-emad-shamout.html) and [Tim G. J. Rudner](https://timrudner.com/).
+As a [Global PhD Fellow](https://nyuad.nyu.edu/en/academics/graduate-and-phd/phd-programs.html#:~:text=FOR%20INFORMATION%20SESSIONS-,Global%20PhD%20Student%20Fellowships,-NYU%20Abu%20Dhabi), I am part of the [Clinical AI Laboratory](https://clinicalailab.com/) at NYU Abu Dhabi, UAE.
 
 <!-- I am currently working on a collaboration with Professor [Tim Rudner](https://timrudner.com/) implementing uncertainty quantification methods on the MIMIC dataset. We have submitted a workshop chest X-ray datasets.   -->
  <!-- lie at the intersection of computer vision, healthcare, neuroscience, bio-design, human-computer interaction, and robotics. Until this day I still feel like machine learning and AI in general is magic. Being able to build an application that can positively impact the lives of people product with just your computer is still mindblowing for me. -->
 
-I have a double masters in Mathematics and Informatics Data Science [MIDS](https://m2mids.github.io/m2mids/) from Université de Paris Cité and obtained my B.Sc in Mechatronics Engineering from the Instituto Tecnológico y de Estudios Superiores de Monterrey [ITESM](https://tec.mx/en) in Mexico. 
+I received a double master's degree in Mathematics and Informatics Data Science [MIDS](https://master.math.u-paris.fr/annee/m2-mids/) from Université de Paris Cité and an undergraduate degree in mechatronics engineering from the Instituto Tecnológico y de Estudios Superiores de Monterrey [ITESM](https://tec.mx/en). 
+
+For specific details, please see my [CV](/files/CV_JulianLechuga.pdf)
 <!-- Throughout the years I have developed different mechatronic systems and software applications using augmented reality, virtual reality, NLP, computer vision, machine learning, deep learning and data science. -->
 <!-- In 2018 I worked as a research assistant at the [Yamamoto Human Computer Interaction Laboratory](http://www2.kanazawa-it.ac.jp/yamalab/) at the Kanazawa Institute of Technology under the supervision of Dr Tomohito Yamamoto. I developed an application using augmented reality and deep learning for analyzing heartbeat sounds to create a pre-diagnostic mobile tool. -->
 
-I was born and raised in Mexico, and so far I have lived in France, Germany, Latvia, Japan, Belgium, the United Arab Emirates and the United States. All these places have given me invaluable experiences, reinforcing my desire to learn more about the world, science, culture and different languages. I speak Spanish, English and French fluently and I continue to study and improve my German and Japanese (I recently started learning Arabic :D).
+Born and raised in Mexico, I have lived in France, Germany, Latvia, Japan, Belgium, the United Arab Emirates and the United States. All these places have given me amazing experiences, reinforcing my desire to learn about the world, science, culture and different languages. 
+<!-- I speak Spanish, English and French fluently and I continue to study and improve my German and Japanese (I recently started learning Arabic :D). -->
 
-If you stumbled upon my profile, feel free to reach out to me if you want to chat or discuss about my background or anything that you are curious about. I am no expert and I consider myself as a always chasing knowledge, but I do have some experience that may be useful for anyone navigating moving to another country, applying to gradschool, research, or life in general! 
+If you stumbled upon my profile, feel free to reach out to me if you want to chat or discuss about my background or anything that you are curious about. I am no expert and consider myself as a always chasing knowledge, but I have experience that may be useful for anyone navigating moving to another country, applying to gradschool, research, or life in general! 
 
 <!-- I strongly believe that we must strive to achieve the best version of ourselves both physically and mentally, which is the only thing we can do with the limited time we have on this Earth. -->
 
 *“The mystery of life isn't a problem to solve, but a reality to experience.”* - Frank Herbert
 
 
-Other interests
+News
 ======
 
 <!-- * **Robotics**: Mechatronic systems for automating every day tasks, autonomous vehicles, swarm robotics, virtual reality surveillance systems. Robotics is just awesome. -->
 <!-- * **Health Data Science**: Analysis of medical data and research of SOTA methods for detection and classification for cancer. Main goal: development of high performing low-cost applications and diagnostic tools to increase the access for disadvantaged people to safe and reliable health services driven by technology. -->
 <!-- * **Neuroscience**: Understanding how the brain works and particularly learn about the processes that allow you to read these words and continue breathing without having to think about it. -->
-* **AI policy**: Starting in Fall 2023, I got more involved in topics regarding AI regulation and policy, with a special focus on developing countries. Got very inspired by an amazing course by Prof Sunoo Park & Prof Kyunghyun Cho and continued with the Responsible AI course from Prof Julia Stoyanovich.
+<!-- * **AI policy**: Starting in Fall 2023, I got more involved in topics regarding AI regulation and policy, with a special focus on developing countries. Got very inspired by an amazing course by Prof Sunoo Park & Prof Kyunghyun Cho and continued with the Responsible AI course from Prof Julia Stoyanovich.
 * **Graph data networks**: I find graph theory fascinating, I think there is huge potential in the applications of graph databases. 
 <!-- I developed a project for analyzing historical F1 data using graph databases. -->
-* **Gastronomy**: I will eventually have my own restaurant in which people can enjoy the combination of delicious food and the marvels of AI. I wonder how can AI can be merged with gastronomy to improve and create new culinary experiences? I worked in a taqueria for 1 beautiful day!
+<!-- * **Gastronomy**: I will eventually have my own restaurant in which people can enjoy the combination of delicious food and the marvels of AI. I wonder how can AI can be merged with gastronomy to improve and create new culinary experiences? I worked in a taqueria for 1 beautiful day! -->
 <!-- * **Finance**: I am interested in learning about finance and the dynamics of investments and economy in general. -->
-* **Culture**: I am interested in art, AI and mechatronic systems working together to create new ways of artistic expression and immersive experiences. I was able to develop this interest in 2022 by being part of [CreARTathon 2022: Project Réseaunance](https://creartathon.com/). This summer school was led by Professor [Wendy Mackay](https://ex-situ.lri.fr/people/mackay). 
+<!-- * **Culture**: I am interested in art, AI and mechatronic systems working together to create new ways of artistic expression and immersive experiences. I was able to develop this interest in 2022 by being part of [CreARTathon 2022: Project Réseaunance](https://creartathon.com/). This summer school was led by Professor [Wendy Mackay](https://ex-situ.lri.fr/people/mackay).  --> -->
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 <!-- A data-driven personal website
