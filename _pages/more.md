@@ -25,7 +25,7 @@ Athletics
 ======
 * Club España Row Crew, Mexico 2011-2017. 
 * Running: 10k Paris 2022 in 41m56s, Abu Dhabi Marathon 2024 (42km) 03h24m09s
-* Swimming: 2.5k open sea race, Acapulco Mexico 2018. ~01:35:00
+* Swimming: 2.5k open sea race, Acapulco Mexico 2018. 01h35m
 <!-- * I love snowboarding and I am awfully scared of falling into a cliff sometimes haha -->
 * Next big goal: To have done an Ironman (at least) by the end of my Ph.D
 
