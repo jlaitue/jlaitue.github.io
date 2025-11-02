@@ -36,6 +36,7 @@ If you stumbled upon my profile, feel free to reach out to me if you want to cha
 
 News
 ======
+**Oct '25**  Our work *Class-Dependent Miscalibration Severely Degrades Selective Prediction in Multimodal Clinical Prediction Models* was accepted at [Machine Learning for Health Symposium ML4H 2025](https://ahli.cc/ml4h/)!!.
 
 **Jul '25**  Presented our work on [Uncertainty-Aware Multimodal AI for Respiratory Shock Detection](https://drive.google.com/file/d/1VYkOLTrd-z7IqwK-hDs25J812WUl0qUo/view?usp=drive_link) at [IEEE EMBC 2025](https://embc.embs.org/2025/).
 
